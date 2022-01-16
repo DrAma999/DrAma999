@@ -9,13 +9,13 @@
 ##
  <div>
   <a href="https://github.com/Drama999">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drama999&theme=dark&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drama999&theme=dark&show_icons=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=drama999&theme=dark&show_icons=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drama999&theme=dark&show_icons=true&count_private=true"/>
 </div>
 
   ##
   <div> 
-    <a href="www.linkedin.com/in/andreafinollo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/andreafinollo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://twitter.com/DrAma78" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
   
