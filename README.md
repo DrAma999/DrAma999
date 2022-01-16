@@ -7,8 +7,19 @@
 - 🔭 I’m currently working on a device to improver boxer reflexes
 
 ##
+ <div>
+  <a href="https://github.com/Drama999">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drama999&theme=dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drama999&theme=dark&show_icons=true&count_private=true"/>
+</div>
 
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=drama999)](https://github.com/drama999/github-readme-stats)
+  ##
+  <div> 
+    <a href="www.linkedin.com/in/andreafinollo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/DrAma78" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+  
+  
 <!--
 **DrAma999/DrAma999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
