@@ -18,9 +18,11 @@
   <div> 
     <a href="https://www.linkedin.com/in/andreafinollo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://twitter.com/DrAma78" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+   <a href="https://stackoverflow.com/users/395897/andrea" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-E5883E?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+   <a href="https://profile.codersrank.io/user/drama999" target="_blank"><img src="https://img.shields.io/badge/CodersRank-75A2AB?style=for-the-badge&logo=codersrank&logoColor=white" target="_blank"></a>
 </div>
-  
-  
+ 
+ 
 <!--
 **DrAma999/DrAma999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
