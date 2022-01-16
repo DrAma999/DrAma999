@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-☠️ Biomedical Engineer
-🧑‍💻 Self taught Programmer
-🤓 Tikerer
-📱 More than 4 apps on AppStore as Indie Developer
-🔭 I’m currently working on a device to improver boxer reflexes
+- ☠️ Biomedical Engineer
+- 🧑‍💻 Self taught Programmer
+- 🤓 Tikerer
+- 📱 More than 4 apps on AppStore as Indie Developer
+- 🔭 I’m currently working on a device to improver boxer reflexes
 
 ##
 
