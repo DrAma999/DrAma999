@@ -5,7 +5,7 @@
 - 🤓 Tinkerer ⚡️🪛⚙️🖥
 - 📱 More than 4 apps on [AppStore](https://apps.apple.com/it/developer/andrea-finollo/id1231762625) as Indie Developer
 - 📝 I also write on [Medium](https://thexcodewhisperer.medium.com)
-- 🔭 I’m currently working on a device to improver boxer 🥊 reflexes
+- 🔭 I’m currently working on a device to improve boxers 🥊 reflexes
 
 ##
  <div>
